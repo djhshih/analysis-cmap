@@ -1,0 +1,10 @@
+wget -qc https://zenodo.org/record/3905462/files/CCLE.rds?download=1
+wget -qc https://zenodo.org/record/7829919/files/PSet_GDSC2020.rds?download=1
+wget -qc https://zenodo.org/record/7829915/files/PSet_GDSC2020.rds?download=1
+wget -qc https://zenodo.org/record/7826870/files/PSet_CTRPv2.rds?download=1
+wget -qc https://zenodo.org/record/7823755/files/PSet_FIMM.rds?download=1
+wget -qc https://zenodo.org/record/5979590/files/Tavor.rds?download=1
+wget -qc https://zenodo.org/record/7893032/files/PSet_NCI60.rds?download=1
+wget -qc https://zenodo.org/record/7826864/files/PSet_PRISM.rds?download=1
+wget -qc https://zenodo.org/record/7829853/files/PSet_BeatAML.rds?download=1
+wget -qc https://zenodo.org/record/7826847/files/PSet_GRAY2017.rds?download=1
